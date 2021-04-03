@@ -35,6 +35,10 @@ In the first bar graph we can see that in 2010 China has highest account balance
 
 Overall China and Germany are stable which means has no debts other countries among which United States has the lowest account balance which is in negative. This clearly shows having a good FDI or export, import report does not means it has a good financial status.
 
+# Trade in services of different countries from 2010-2018
+![newplot (11)](https://user-images.githubusercontent.com/78184393/113485883-8e355b00-94cd-11eb-8516-d59f9ee8fd2e.png)
+Here 2D Scatter plot is used to show the trade in services versus there account balance. In this we will see Germany at first place having good account balance along with high trade in services. Though China is behind United States in trade in services but it has large amount of account balance where United States is lacking very mmuch. India is at second position in trade followed by Australia.
+
 # Foreign Direct Investment of countries from 2010-2018
 ![newplot (10)](https://user-images.githubusercontent.com/78184393/113485416-fa628f80-94ca-11eb-9316-a9c6e5bb6dbc.png)
  Line Graph is used to show the Foreign Direct Investment of 5 countries that are :- India , China, United States, Germany and Australia. 
