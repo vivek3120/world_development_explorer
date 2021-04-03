@@ -17,3 +17,5 @@ I got these datasets from World Developments Explorer(WDX). From their we can ge
 
 # What process/step you use to analyze the situation/issue?
 I used different types of charts for comparision, similarities or for differentiating between the countries like bubble chart, scatter plots(2-D scatter chart/ bubble chart) and line chart.
+
+# Goods export and import across different countries from 2010-2018![newplot (5)](https://user-images.githubusercontent.com/78184393/113483062-30017b80-94bf-11eb-9f90-46b2afa301b8.png)
