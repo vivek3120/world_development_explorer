@@ -34,3 +34,5 @@ Here, Bar Graph has been used to compare account balance in five different count
 In the first bar graph we can see that in 2010 China has highest account balance followed by Germany and rest countries account balance are going in negative due to a lot of debts. By 2018 Germany is leading in account balance followed by China and no difference in United States balance which was still going negative.
 
 Overall China and Germany are stable which means has no debts other countries among which United States has the lowest account balance which is in negative. This clearly shows having a good FDI or export, import report does not means it has a good financial status.
+
+![newplot (10)](https://user-images.githubusercontent.com/78184393/113485416-fa628f80-94ca-11eb-9316-a9c6e5bb6dbc.png)
