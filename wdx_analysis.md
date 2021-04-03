@@ -29,4 +29,8 @@ Overall China and United States are top countries in export, import and FDI.
 # Account balance of different countries from 2010-2018
 ![newplot (7)](https://user-images.githubusercontent.com/78184393/113483918-5cb79200-94c3-11eb-9e9f-78cf0afce1d4.png)
 ![newplot (9)](https://user-images.githubusercontent.com/78184393/113484442-e9fbe600-94c5-11eb-9a72-6f6ee6dec13d.png)
+Here, Bar Graph has been used to compare account balance in five different countries: India, China, Germany , Australia and United States.
+ 
+In the first bar graph we can see that in 2010 China has highest account balance followed by Germany and rest countries account balance are going in negative due to a lot of debts. By 2018 Germany is leading in account balance followed by China and no difference in United States balance which was still going negative.
 
+Overall China and Germany are stable which means has no debts other countries among which United States has the lowest account balance which is in negative. This clearly shows having a good FDI or export, import report does not means it has a good financial status.
