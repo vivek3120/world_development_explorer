@@ -19,3 +19,8 @@ I got these datasets from World Developments Explorer(WDX). From their we can ge
 I used different types of charts for comparision, similarities or for differentiating between the countries like bubble chart, scatter plots(2-D scatter chart/ bubble chart) and line chart.
 
 # Goods export and import across different countries from 2010-2018![newplot (5)](https://user-images.githubusercontent.com/78184393/113483062-30017b80-94bf-11eb-9f90-46b2afa301b8.png)
+![newplot (6)](https://user-images.githubusercontent.com/78184393/113483281-3fcd8f80-94c0-11eb-9526-761bada33740.png)
+
+Here I am displaying 2 bubble charts with diiferent years 2010 and 2017 for comparision of import and export of goods and FDI for countries like Australia,United States, China, Germany, and India.
+
+In 2010, China has the highest exports and second in the imports, while United States  has the highest imports, with the rest of the world like India, Australia with no change. Whereas in 2017 China overtakes germany in Foreign Direct Investment.
