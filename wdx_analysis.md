@@ -24,3 +24,8 @@ I used different types of charts for comparision, similarities or for differenti
 Here I am displaying 2 bubble charts with diiferent years 2010 and 2017 for comparision of import and export of goods and FDI for countries like Australia,United States, China, Germany, and India.
 
 In 2010, China has the highest exports and second in the imports, while United States  has the highest imports, with the rest of the world like India, Australia with no change. Whereas in 2017 China overtakes germany in Foreign Direct Investment.
+Overall China and United States are top countries in export, import and FDI.
+
+# Current account balance of different countries from 2010-2018
+![newplot (7)](https://user-images.githubusercontent.com/78184393/113483918-5cb79200-94c3-11eb-9e9f-78cf0afce1d4.png)
+
