@@ -35,4 +35,9 @@ In the first bar graph we can see that in 2010 China has highest account balance
 
 Overall China and Germany are stable which means has no debts other countries among which United States has the lowest account balance which is in negative. This clearly shows having a good FDI or export, import report does not means it has a good financial status.
 
+# Foreign Direct Investment of countries from 2010-2018
 ![newplot (10)](https://user-images.githubusercontent.com/78184393/113485416-fa628f80-94ca-11eb-9316-a9c6e5bb6dbc.png)
+ Line Graph is used to show the Foreign Direct Investment of 5 countries that are :- India , China, United States, Germany and Australia. 
+After leading in this field from a decade, United States saw a downfall in 2018 in there Foreign Direct Investment. And as we can see China and Germany at a constant pace followed by India and Australia. Showing this graph I wanted to take your attention to the fact that having good Foreign Direct Investment does not means it will be having good account balance also ie:- despite having good FDI , United states has a lot of debt which means negatiuve account balance.
+
+
