@@ -1,0 +1,46 @@
+,Year,SP.POP.TOTL,BN.CAB.XOKA.CD,BM.KLT.DINV.CD.WD,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,22031750,-44714246092.1586,18068580537.9747,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2011,22340024,-44431156054.1156,8250639449.1207,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2012,22733465,-64482910032.1769,5763649125.05455,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2013,23128129,-47872531026.3494,-769705628.088571,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2014,23475686,-43397397625.4285,22565879021.4598,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,23815995,-56958711794.5014,8258809107.18849,AUS,Australia,East Asia & Pacific,High income,Not classified
+6,2016,24190907,-41035416124.8005,-3108643986.26261,AUS,Australia,East Asia & Pacific,High income,Not classified
+7,2017,24601860,-35951694822.4385,8595235318.4345,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2018,24982688,-29784738313.3228,998461668.280411,AUS,Australia,East Asia & Pacific,High income,Not classified
+9,2010,1337705000,237810389607.955,57953599366.3569,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2011,1344130000,136096761577.55,48420641059.6476,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2012,1350695000,215391747469.442,64963386524.0,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2013,1357380000,148203949879.877,72970879683.31,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+13,2014,1364270000,236046577873.629,123129554305.76,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+14,2015,1371220000,304164445643.017,174390681862.62,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+15,2016,1378665000,202203423877.644,216424460753.575,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+16,2017,1386395000,195116668509.202,138292767802.139,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+17,2018,1392730000,25499236004.0486,143026576683.861,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+18,2010,81776930,196171903151.515,146643024387.446,DEU,Germany,Europe & Central Asia,High income,Not classified
+19,2011,80274983,231971688209.185,107908552710.998,DEU,Germany,Europe & Central Asia,High income,Not classified
+20,2012,80425823,251550848619.467,99082261106.365,DEU,Germany,Europe & Central Asia,High income,Not classified
+21,2013,80645605,245384297278.942,93293315913.4575,DEU,Germany,Europe & Central Asia,High income,Not classified
+22,2014,80982500,278660794166.597,107504336826.015,DEU,Germany,Europe & Central Asia,High income,Not classified
+23,2015,81686611,288620732320.068,130856382312.265,DEU,Germany,Europe & Central Asia,High income,Not classified
+24,2016,82348669,295080042315.381,111801897924.897,DEU,Germany,Europe & Central Asia,High income,Not classified
+25,2017,82657002,287217746215.905,160419976000.921,DEU,Germany,Europe & Central Asia,High income,Not classified
+26,2018,82905782,293188073981.209,177480059663.81,DEU,Germany,Europe & Central Asia,High income,Not classified
+27,2010,1234281170,-54515877624.3661,15968099287.9994,IND,India,South Asia,Lower middle income,IBRD
+28,2011,1250288729,-62517637221.5214,12607994609.7209,IND,India,South Asia,Lower middle income,IBRD
+29,2012,1265782790,-91471245845.7231,8553237671.30214,IND,India,South Asia,Lower middle income,IBRD
+30,2013,1280846129,-49122670387.7036,1764948800.03303,IND,India,South Asia,Lower middle income,IBRD
+31,2014,1295604184,-27314281992.5894,11686480933.1168,IND,India,South Asia,Lower middle income,IBRD
+32,2015,1310152403,-22456838009.6209,7514275638.80775,IND,India,South Asia,Lower middle income,IBRD
+33,2016,1324509589,-12113787707.3688,5047292605.54428,IND,India,South Asia,Lower middle income,IBRD
+34,2017,1338658835,-38167659223.511,11090150305.4241,IND,India,South Asia,Lower middle income,IBRD
+35,2018,1352617328,-65599439052.6676,11417789536.2385,IND,India,South Asia,Lower middle income,IBRD
+36,2010,309321666,-432002000000.0,349828000000.0,USA,United States,North America,High income,Not classified
+37,2011,311556874,-455297000000.0,436616000000.0,USA,United States,North America,High income,Not classified
+38,2012,313830990,-418112000000.0,377240000000.0,USA,United States,North America,High income,Not classified
+39,2013,315993715,-336853000000.0,392796000000.0,USA,United States,North America,High income,Not classified
+40,2014,318301008,-367812000000.0,387529000000.0,USA,United States,North America,High income,Not classified
+41,2015,320635163,-407356000000.0,302071000000.0,USA,United States,North America,High income,Not classified
+42,2016,322941311,-394867000000.0,299815000000.0,USA,United States,North America,High income,Not classified
+43,2017,324985539,-365261000000.0,405376000000.0,USA,United States,North America,High income,Not classified
+44,2018,326687501,-449700000000.0,-151298000000.0,USA,United States,North America,High income,Not classified
